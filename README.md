@@ -1,7 +1,7 @@
 ### Olá! Me chamo Kawamoto
 
 
-- 😄 Pronouns: ela/dela
+- 😄 Pronome: ela/dela
 - ⚡ Eu amo pão de batata
 - 😎 Gosto de dormir
 
@@ -13,10 +13,10 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="paobatata" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676https://lafrikileria.com/blog/wp-content/uploads/2021/07/one-piece-logo-640x360.jpg>
- <\div>
+</div>
  
   ##
- <br>
+  
 <div> 
 
   <a href="https://www.youtube.com/watch?v=xmbxe0Jtxmc&ab_channel=AstaAMVs" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
