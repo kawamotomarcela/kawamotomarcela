@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2B49B7&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=172757&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marcela+Kawamoto;I'm+17+years+old;I+am+from+Brazil;I+Love+Potato+Bread;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=172757&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marcela+Kawamoto;I'm+19+years+old;I+am+from+Brazil;I+Love+Potato+Bread;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ![Kawamoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawamotomarcela&show_icons=true&theme=dark)
 <div align="center">  
@@ -15,7 +15,6 @@
 
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
